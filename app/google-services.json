@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090427536974",
+    "project_id": "javawebrtc-main",
+    "storage_bucket": "javawebrtc-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090427536974:android:2527b128cd034dc946251f",
+        "android_client_info": {
+          "package_name": "com.codewithkael.javawebrtcyoutube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnbu4GKE5woI-UKakOjggnuXhzCireCSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
